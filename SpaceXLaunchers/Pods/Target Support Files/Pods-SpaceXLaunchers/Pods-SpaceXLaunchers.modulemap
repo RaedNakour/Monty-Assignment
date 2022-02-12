@@ -1,0 +1,6 @@
+framework module Pods_SpaceXLaunchers {
+  umbrella header "Pods-SpaceXLaunchers-umbrella.h"
+
+  export *
+  module * { export * }
+}
